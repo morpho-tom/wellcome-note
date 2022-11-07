@@ -16,7 +16,7 @@
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I solve problems on GeeksforGeeks and w3schools read tech articles.
 
 - :mailbox:How to reach me: achappan_k@yahoo.com
 
